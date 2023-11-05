@@ -59,3 +59,7 @@ Improved customer experience with a user-friendly interface.
 Enhanced communication between agents and customers.
 Data-driven insights for decision-making.
 In summary, the Real Estate Management System is a comprehensive software solution designed using OOP principles to streamline the real estate industry. It facilitates property listing, user management, and transaction tracking while offering a secure and user-friendly experience. This project helps real estate professionals and customers interact effectively, manage properties, and make informed decisions in the real estate market.
+
+How to Run:
+1. Open the code in any ide of your wish.
+2. Run dream.java file from "./src/".
